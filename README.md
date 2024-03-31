@@ -10,7 +10,8 @@ urlFragment: "ef-core-for-beginners"
 description: "All the notes and code samples to follow along with the Entity Framework Core for Beginners video series."
 ---
 
-# Entity Framework Core for Beginners video series
+# Entity Framework Core for Beginners video series 
+s
 
 Hi, friend! 👋 You've found the code and other materials to accompany the [Entity Framework Core for Beginners video series](https://aka.ms/ef-core-videos). We hope you'll find it enjoyable and informative. 💜
 
